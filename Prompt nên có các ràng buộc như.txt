@@ -1,0 +1,4 @@
+Prompt nên có các ràng buộc như:
+- Giới hạn độ dài: Không quá 300 từ.
+- Kiểm soát thuật ngữ: Ưu tiên tiếng Việt, nếu dùng thuật ngữ tiếng Anh thì giải thích ngay bằng tiếng Việt.
+- Kiểm soát độ khó: Giải thích phù hợp với sinh viên năm 1, dùng ví dụ thực tế và tránh kiến thức chuyên sâu.
